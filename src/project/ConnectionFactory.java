@@ -15,7 +15,7 @@ public class ConnectionFactory {
     
     public static Connection getConnection(){
         try {
-            Properties prop = loadProperties("config/DataBase.properties");
+            Properties prop = loadProperties("config/database.properties");
             URL = prop.getProperty("db_url");
             USER = prop.getProperty("db_user");
             PASS = prop.getProperty("db_pass");
