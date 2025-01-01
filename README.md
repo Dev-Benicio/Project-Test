@@ -1,4 +1,4 @@
-#Projeto de Teste do Application.Properties
+# Projeto de Teste do Application.Properties
 
 Este é um projeto de teste que criei para explorar o uso de arquivos externos para armazenar dados sensíveis,
 como as configurações de conexão com o banco de dados. O objetivo é possibilitar a troca fácil entre ambientes 
