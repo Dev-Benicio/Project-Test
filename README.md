@@ -12,5 +12,5 @@ Este projeto foi uma forma de validar o meu entendimento sobre o uso desse mecan
 Com isso, é possível manter as configurações do banco de dados fora do código, facilitando a alteração de dados entre diferentes ambientes
 e melhorando a segurança.
 
-Além disso, para uma segurança ainda maior, [e bom usar o arquivo .env 
+Além disso, para uma segurança ainda maior, é bom usar o arquivo .env 
 
